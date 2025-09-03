@@ -871,14 +871,7 @@
                     <p>+225 07 49 03 86 86</p>
                     <p class="payment-link">Cliquez pour payer avec Orange Money</p>
                 </div>
-                
-                <div class="payment-method" onclick="openPaymentApp('mtn')">
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/MTN_Logo.svg/1200px-MTN_Logo.svg.png" alt="MTN Money">
-                    <p>MTN Money</p>
-                    <p>+225 05 05 58 58 05</p>
-                    <p class="payment-link">Cliquez pour payer avec MTN Money</p>
-                </div>
-                
+             
                 <div class="payment-method" onclick="openPaymentApp('wave')">
                     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Wave_%28company%29_logo.svg/1200px-Wave_%28company%29_logo.svg.png" alt="Wave">
                     <p>Wave</p>
